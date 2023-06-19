@@ -22,7 +22,7 @@ To utilize the Excel Data Analysis Automation workflow:
 ## Contact Information
 If you have any questions or would like to discuss collaboration opportunities, feel free to reach out to me:
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: hung.le@wustl.edu
+- LinkedIn: 
 
 Thank you for exploring my Excel Data Analysis Automation repository. I hope you find the workflow useful and the provided examples insightful!
