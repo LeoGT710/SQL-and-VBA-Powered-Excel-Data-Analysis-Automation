@@ -4,7 +4,7 @@
 Welcome to my Excel Data Analysis Automation repository! This repository showcases a comprehensive workflow for data analysis and automation in Excel. The workflow consists of three parts: data consolidation, VBA automation, and formula-based analysis.
 
 ## Part 1: Data Consolidation
-In this part, I used Dbeaver to consolidate multiple data sources into a single dataset. The consolidated data is stored in a standardized format for further analysis. The SQL queries, data transformation steps, and the final consolidated dataset can be found in the [Part1_Data Consolidation](./Part1_Data Consolidation) folder.
+In this part, I used Dbeaver to consolidate multiple data sources into a single dataset. The consolidated data is stored in a standardized format for further analysis. The SQL queries, data transformation steps, and the final consolidated dataset can be found in the [Part1_Data Consolidation](./Part1_Data%20Consolidation) folder.
 
 ## Part 2: VBA Automation
 In this part, I developed a VBA script to automate the process of loading data into Excel and performing necessary formatting. The script retrieves data from the consolidated dataset and automatically formats it based on predefined rules. The VBA code, instructions, and sample data can be found in the [VBA Automation](./part2) folder.
