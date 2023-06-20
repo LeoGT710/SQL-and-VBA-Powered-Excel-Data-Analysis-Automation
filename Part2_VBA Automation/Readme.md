@@ -1,7 +1,7 @@
 
-# DeleteAndRetrieveData VBA Script
+# Get Data VBA Script
 
-The DeleteAndRetrieveData VBA script is a tool designed to perform specific operations on an Excel worksheet. It enables users to clear and retrieve data from specific ranges, format the retrieved data, and interact with an external data file. This script can be particularly useful for data management and manipulation tasks within Excel.
+The Get Data VBA script is a tool designed to perform specific operations on an Excel worksheet. It enables users to clear and retrieve data from specific ranges, format the retrieved data, and interact with an external data file. This script can be particularly useful for data management and manipulation tasks within Excel.
 
 ## Prerequisites
 - Microsoft Excel installed on your system.
