@@ -1,36 +1,31 @@
 
-# Get Data VBA Script
 
-The Get Data VBA script is a tool designed to perform specific operations on an Excel worksheet. It enables users to clear and retrieve data from specific ranges, format the retrieved data, and interact with an external data file. This script can be particularly useful for data management and manipulation tasks within Excel.
+# Get Data VBA Script - Excel Automation Tool
 
-## Prerequisites
-- Microsoft Excel installed on your system.
-- Basic knowledge of working with Excel worksheets and VBA macros.
+Welcome to the Get Data VBA script, an Excel automation tool that simplifies and streamlines your data management tasks. This script provides a convenient solution for performing various operations on an Excel worksheet, such as data retrieval, formatting, and interaction with external data files. With the Get Data script, you can achieve your desired results with just a single click, saving you time and effort.
 
-## Usage
-1. Open your Excel workbook.
-2. Press **ALT + F11** to open the Visual Basic Editor.
-3. Insert a new module and copy the DeleteAndRetrieveData script into the module.
-4. Close the Visual Basic Editor.
-5. Ensure that the worksheet you want to perform the operations on is active.
-6. Run the macro by pressing **ALT + F8** to open the macro dialog, selecting **DeleteAndRetrieveData**, and clicking "Run."
+## Benefits of Using the Get Data Automation:
 
-## Functionality
-The DeleteAndRetrieveData script performs the following actions:
+1. **Easy Data Retrieval:** The script allows you to quickly clear and retrieve data from specific ranges in your worksheet. No more manual copying and pasting - the script automates this process for you.
 
-- Deletes values and formulas in columns A to H from row 4 down to the last row.
-- Deletes a specified range (J5:BI4) and the cells below it until the last row with data.
-- Retrieves data from an external data file (data.csv) and copies it to cells A4 to H4 and downward.
-- AutoFills formulas in columns J and M to BI, based on the retrieved data.
-- Applies specific border formatting to ranges J4 to BI and other specified ranges.
-- Closes the external data file without saving changes.
-- Deletes the external data file from the specified path (C:\Users\hvle\Downloads\).
+2. **Seamless Data Formatting:** Once the data is retrieved, the script automatically formats the table, ensuring a consistent and professional appearance. You no longer have to manually format the table each time you import new data.
 
-**Note:** Make sure to update the file path and name in the script to match the location of your data.csv file.
+3. **Efficient Formula Management:** The script intelligently copies or removes formulas based on your specified range, enabling you to apply formulas only to the desired rows. This helps you maintain accurate calculations and reduce unnecessary formula overhead.
 
-## License
-This project is licensed under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file.
+4. **One-Click Automation:** By incorporating the Get Data script into your workflow, you can simplify complex data management tasks into a single click. It eliminates the need for repetitive manual steps, making your data analysis and reporting processes more efficient.
+
+## Usage:
+
+1. Download and open your Excel workbook.
+2. Enable macros if prompted to do so.
+3. Navigate to the worksheet where you want to perform the operations.
+4. Locate and click the "Get Data" button or assigned macro (if you have customized it).
+5. Sit back and relax as the script performs all the necessary actions, including data retrieval, formatting, and formula management.
+
+**Note:** Make sure to update the script's configuration and settings according to your specific requirements, such as the data range, external file path, and formatting preferences. Refer to the provided code comments for guidance.
+
+We hope the Get Data VBA script simplifies your data analysis workflow and enhances your productivity. For any questions or feedback, please feel free to contact us at your-email@example.com.
 
 ## Contact
-For any questions or feedback regarding this VBA script, please feel free to contact the author at your-email@example.com.
+For any questions or feedback regarding this VBA script, please feel free to contact the author at hung.le@wustl.edu
 
