@@ -1,4 +1,4 @@
-# SQL_VBA_EXCEL
+# SQL and VBA Powered Excel Data Analysis Automation
 # Excel Data Analysis Automation
 
 Welcome to my Excel Data Analysis Automation repository! This repository showcases a comprehensive workflow for data analysis and automation in Excel. The workflow consists of three parts: data consolidation, VBA automation, and formula-based analysis.
