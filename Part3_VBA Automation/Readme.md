@@ -1,5 +1,4 @@
 
-
 # Get Data VBA Script - Excel Automation Tool
 
 Welcome to the Get Data VBA script, an Excel automation tool that simplifies and streamlines your data management tasks. This script provides a convenient solution for performing various operations on an Excel worksheet, such as data retrieval, formatting, and interaction with external data files. With the Get Data script, you can achieve your desired results with just a single click, saving you time and effort.
@@ -24,8 +23,6 @@ Welcome to the Get Data VBA script, an Excel automation tool that simplifies and
 
 **Note:** Make sure to update the script's configuration and settings according to your specific requirements, such as the data range, external file path, and formatting preferences. Refer to the provided code comments for guidance.
 
-We hope the Get Data VBA script simplifies your data analysis workflow and enhances your productivity. For any questions or feedback, please feel free to contact us at your-email@example.com.
-
 ## Contact
-For any questions or feedback regarding this VBA script, please feel free to contact the author at hung.le@wustl.edu
 
+We hope the Get Data VBA script simplifies your data analysis workflow and enhances your productivity. For any questions or feedback, please feel free to contact us at hung.le@wustl.edu.
