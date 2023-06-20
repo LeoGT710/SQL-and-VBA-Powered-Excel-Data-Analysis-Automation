@@ -48,7 +48,7 @@ After executing the SQL code, you will obtain a consolidated dataset that combin
 
 The sample dataset includes columns such as SKU (Stock Keeping Unit), Week, Sales, Instock_Percent, Assortment, and Profile. Each row represents a specific SKU's sales data for a particular week, along with the corresponding instock percentage, assortment information, and projected profile for the next 52 weeks.
 
-If the week and year in the dataset are greater than the current week and year, the data is  "Projected." This indicates that the corresponding sales data and other metrics are projections for the upcoming weeks. On the other hand, if the week and year are before or equal to the current week and year, the data is "Historical," indicating that the data represents historical sales information.
+If the week and year in the dataset are greater than the current week and year, the data is  "Projected". The time I'm writing this is week 25 2023 . This indicates that the corresponding sales data and other metrics are projections for the upcoming weeks. On the other hand, if the week and year are before or equal to the current week and year, the data is "Historical," indicating that the data represents historical sales information.
 
 Please note that this is just a sample, and the actual dataset will vary based on your specific data and SQL code execution.
 
