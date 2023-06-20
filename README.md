@@ -15,7 +15,7 @@ In this part, I developed a VBA script to automate the process of loading data i
 ## Usage
 To utilize the Excel Data Analysis Automation workflow:
 1. Start with the consolidated dataset obtained from Part 1.
-2. Open the Excel file from Part 3.
+2. Open the Excel file from Part 2.
 3. Click the designated button '**Get Data**' to load the data using the VBA automation script.
 4. The loaded data will be automatically formatted, and all necessary analysis will be calculated.
 
