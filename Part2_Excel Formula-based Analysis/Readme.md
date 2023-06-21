@@ -1,35 +1,37 @@
+# Part 2: Descriptive Analytics
 
-# Get Data VBA Script
+Welcome to Part 2 of the SQL and VBA Powered Excel Data Analysis Automation project! This section focuses on performing descriptive analytics to analyze historical performance metrics such as sales, in-stock percentage, historical assortments, and price in any period of time. Additionally, it includes functionality to calculate forecasts based on the available data.
 
-The Get Data VBA script is a tool designed to perform specific operations on an Excel worksheet. It enables users to clear and retrieve data from specific ranges, format the retrieved data, and interact with an external data file. This script can be particularly useful for data management and manipulation tasks within Excel.
+## Description
+
+Part 2 of the project provides a comprehensive set of tools and functions to analyze and understand historical performance metrics in Excel. By leveraging the power of formulas, data manipulation techniques, and built-in functions, you can gain valuable insights into the performance of your data.
 
 ## Prerequisites
+
+To use Part 2 of the project, ensure you have the following:
+
 - Microsoft Excel installed on your system.
-- Basic knowledge of working with Excel worksheets and VBA macros.
+- Basic knowledge of working with Excel worksheets and formulas.
 
 ## Usage
+
+To utilize the descriptive analytics functionality:
+
 1. Open your Excel workbook.
-2. Press **ALT + F11** to open the Visual Basic Editor.
-3. Insert a new module and copy the DeleteAndRetrieveData script into the module.
-4. Close the Visual Basic Editor.
-5. Ensure that the worksheet you want to perform the operations on is active.
-6. Run the macro by pressing **ALT + F8** to open the macro dialog, selecting **DeleteAndRetrieveData**, and clicking "Run."
+2. Navigate to the worksheet containing the data you want to analyze.
+3. Follow the instructions provided in the code comments or user guide to execute the specific analysis or calculation you require.
 
 ## Functionality
-The DeleteAndRetrieveData script performs the following actions:
 
-- Deletes values and formulas in columns A to H from row 4 down to the last row.
-- Deletes a specified range (J5:BI4) and the cells below it until the last row with data.
-- Retrieves data from an external data file (data.csv) and copies it to cells A4 to H4 and downward.
-- AutoFills formulas in columns J and M to BI, based on the retrieved data.
-- Applies specific border formatting to ranges J4 to BI and other specified ranges.
-- Closes the external data file without saving changes.
-- Deletes the external data file from the specified path (C:\Users\hvle\Downloads\).
+Part 2 offers the following key functionality:
 
-**Note:** Make sure to update the file path and name in the script to match the location of your data.csv file.
+- Analyzing sales data to identify trends, patterns, and seasonality.
+- Calculating in-stock percentages to measure product availability.
+- Analyzing assortment to understand the variety of products available.
+- Evaluating price data to identify pricing strategies and trends.
+- Forecasting future performance based on historical data.
 
-## License
-This project is licensed under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file.
 
 ## Contact
-For any questions or feedback regarding this VBA script, please feel free to contact the author at your-email@example.com.
+
+For any questions or feedback regarding Part 2 of the project, please feel free to contact the author at hung.le@wustl.edu.
