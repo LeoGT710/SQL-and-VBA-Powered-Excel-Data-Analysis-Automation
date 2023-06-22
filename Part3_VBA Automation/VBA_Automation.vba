@@ -25,7 +25,7 @@ Sub DeleteAndRetrieveData()
     rangetoformat.Borders.LineStyle = xlNone
     'rangetoformat.ClearFormats
     
-    If lastRowJ > 5 Then
+    If lastRowJ >= 5 Then
         ws.Range("J5:BI" & lastRowJ).ClearContents
     End If
     
@@ -72,7 +72,7 @@ Sub DeleteAndRetrieveData()
   ' Copy the formulas from row 4 down to the last row of column K
     Dim lastRowK As Long
     lastRowK = ws.Cells(ws.Rows.Count, "K").End(xlUp).Row
-    If lastRowK > 5 Then
+    If lastRowK >= 5 Then
         ' AutoFill column J from J4 to lastRowK
         ws.Range("J4").AutoFill Destination:=ws.Range("J4:J" & lastRowK)
         
